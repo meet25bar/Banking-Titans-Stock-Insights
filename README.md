@@ -40,7 +40,7 @@ Plotly / Cufflinks
 pip install pandas numpy matplotlib seaborn yfinance plotly cufflinks
 ▶️ Usage
 Clone the repository:
-git clone https://github.com/meet25bar/banking-titans.git
+git clone https://github.com/meet25bar/Banking-Titans-Stock-Insights
 Open the notebook:
 jupyter notebook
 Run all cells to reproduce analysis.
